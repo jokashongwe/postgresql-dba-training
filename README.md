@@ -1,4 +1,4 @@
-# postgresql-dba-training
+# Postgresql DBA 1
 Apprentissage du métier DBA 1 training de Postgresql
 
 ## Semaine 1 - Apprentissage & Mentoring
